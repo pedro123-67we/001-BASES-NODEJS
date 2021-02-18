@@ -1,0 +1,19 @@
+{
+  "name": "001-bases-de-node",
+  "version": "1.0.0",
+  "description": "\"es una aplicacion\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "multiplicacion",
+    "tabla"
+  ],
+  "author": "pedro gomez",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^16.2.0"
+  },
+  "devDependencies": {}
+}
